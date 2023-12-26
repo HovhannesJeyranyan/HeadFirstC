@@ -1,0 +1,1 @@
+./a.out < sec.txt > tx.txt
